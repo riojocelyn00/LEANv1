@@ -8,3 +8,13 @@ Requirements
 ============
 
 * ffmpeg
+
+Function
+============
+
+* Fake reply
+
+```
+ryzn.sendMessage(from, `halo`, text, {quoted: { key { 
+
+```
