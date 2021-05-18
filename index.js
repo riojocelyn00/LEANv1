@@ -17,7 +17,7 @@ CFonts.say('https://ryuzenxx.000webhostapp.com/', {
 	align: 'center',
 	colors: ['system']
 	})
-CFonts.say('BOT\nQulpan', {
+CFonts.say('BOT\nLEAN', {
   font: 'block',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -53,4 +53,4 @@ function start(file) {
   })
   // console.log(p)
 }
-start('qulpan.js')
+start('lean.js')
