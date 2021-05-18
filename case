@@ -1,0 +1,8 @@
+Fake reply :
+case 'l':
+			asux = `0@s.whatsapp.net`
+			const botdev = `*AKENO-BOT V.1.0.0*`
+			jancx = fs.readFileSync('./asu.jpeg')
+			drixl = `ls`
+			ryzn.sendMessage(from, jancx, MessageType.image, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { conversation: `${botdev}` }}, caption : drixl})
+			break
