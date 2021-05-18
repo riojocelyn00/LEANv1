@@ -10,7 +10,14 @@ Requirements
 
 * ffmpeg
 
-Function
+Enviroments
+============
+
+## The case includes : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28"> prices
+* <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25" height="25"> for YouTube downloader 254kbps
+* <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25" height="25"> for gif sticker 30fps
+
+Bonus Function
 ============
 
 * Fake reply
