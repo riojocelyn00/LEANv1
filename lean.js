@@ -13,10 +13,8 @@ const moment = require('moment-timezone')
 const { exec } = require('child_process')
 const fetch = require('node-fetch')
 const ffmpeg = require('fluent-ffmpeg')
-const google = require('google-it')
 const imageToBase64 = require('image-to-base64')
 const speed = require('performance-now')
-const imgbb = require('imgbb-uploader')
 const { removeBackgroundFromImageFile } = require('remove.bg')
 const cd = 4.32e+7
 
@@ -223,7 +221,7 @@ async function starts() {
 								console.log('Finish')
 								exec(`webpmux -set exif ${addMetadata('Ryznxx ', 'Jangan Lupa Donasi')} ${ran} -o ${ran}`, async (error) => {
 								
-									await costum(fs.readFileSync(exif), sticker)
+									await costum(fs.readFileSync(ran), sticker)
 									fs.unlinkSync(media)	
 									fs.unlinkSync(ran)	
 								})
@@ -262,7 +260,7 @@ async function starts() {
 
 				default:
 				if (body.startsWith(`${prefix}${command}`)) {
-                  reply(`Maaf Kak, Command *${prefix}${command}* Tidak Terdaftar Di Dalam Database *${prefix}menu*`)
+                  reply(`Bot ini hanya khusuz stiker command : *${prefix}${command}* Tidak Terdaftar Di Dalam Database *karena hanya bot stiker tod* abaikan chat ini apabila anda pintar`)
                   }
                            }
 		} catch (e) {
