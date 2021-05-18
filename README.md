@@ -5,12 +5,12 @@ English : This is bot for whatsapp web. You can run this repo on Termux(terminal
 Indonesia : Ini adalah repository bot whatsapp. Kamu bisa jalankan repository ini di andorid melalui terminal(Termux) atau bisa juga di windows melalui powershell
 Atau terminal Linux di Mac/Ubuntu custom
 
-Requirements
+Requirements <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" height="30">
 ============
 
 * ffmpeg
 
-Features
+Features <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" height="30">
 ============
 Menu Images | NO |
 | :-----------------: | :-------: |
@@ -26,7 +26,7 @@ Menu Images | NO |
 * <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25" height="25"> for gif sticker 30fps
 
 
-Bonus Function
+Bonus Function <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30" height="30">
 ============
 
 * Fake reply to WhatsApp green tick
